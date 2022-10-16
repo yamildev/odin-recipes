@@ -1,2 +1,2 @@
 # odin-recipes
-This project demonstrate a recipe, only ussing html + git
+This project demonstrate a classical recipe from Uruguay *yum yum*
